@@ -1,0 +1,2 @@
+# Kite Weather — technical evidence
+Interface visualises an external forecast API for one coastal region. It shows hourly intervals; no hyperlocal model or minute accuracy is present. Source: `docs/kite-integration.md`, 2026-02-14.

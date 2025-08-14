@@ -1,2 +1,2 @@
-# m-t600-v2-portfolio-voice-fixture
-Synthetic source-state fixture for M-T600-V2: portfolio voice/content reconciliation evidence. No finished rewrite or PR.
+# M-T600-V2 portfolio fixture
+Synthetic source-state only. The portfolio copy under `src/content/` is deliberately stale. Reconcile it against `evidence/projects/`, current docs, issues and releases; do not treat this README as a biography source.

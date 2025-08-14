@@ -1,0 +1,2 @@
+# Atlas Observatory — technical evidence
+Current implementation: static Astro site with a client-side time-series explorer. Data is refreshed nightly from a checked-in JSON snapshot; no forecasting service, AI model, or uptime SLA. Source: `src/data/atlas-series.json`, 2026-01-12.

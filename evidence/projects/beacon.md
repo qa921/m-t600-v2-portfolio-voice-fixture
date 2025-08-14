@@ -1,0 +1,2 @@
+# Beacon Library — technical evidence
+Migration notes: 14 curated learning modules, MDX content, and local progress state only. Analytics were not installed, so no engagement uplift is verified. Source: `docs/beacon-migration.md`, 2026-02-03.

@@ -1,0 +1,2 @@
+# Morrow Radio — technical evidence
+Archive is a static collection of 42 licensed episodes with transcript links. Storage and preservation guarantees belong to the host, not this project. Source: `docs/morrow-archive.md`, 2026-01-24.

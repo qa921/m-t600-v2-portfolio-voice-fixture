@@ -1,0 +1,2 @@
+# Juncture Journal — technical evidence
+Editorial site runs on Astro content collections with Decap CMS preview configured for editors. Publishing roles are limited to two editors; "limitless" is inaccurate. Source: `docs/juncture-editorial.md`, 2026-01-31.

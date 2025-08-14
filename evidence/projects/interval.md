@@ -1,0 +1,2 @@
+# Interval Studio — technical evidence
+Scheduling prototype offers availability links, calendar ICS export and email draft generation. It does not automate administration or send email. Source: `docs/interval-scope.md`, 2026-02-12.

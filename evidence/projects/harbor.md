@@ -1,0 +1,2 @@
+# Harbor Atlas — technical evidence
+Dashboard combines three public datasets for six pilot neighborhoods. Coverage excludes the rest of the city; refresh is manual each month. Source: `docs/harbor-sources.md`, 2026-02-01.

@@ -1,0 +1,2 @@
+# Lumen Registry — technical evidence
+Public-facing prototype supports browse, filters and record detail for a sampled dataset. Accessibility audit is pending. Source: `docs/lumen-prototype.md`, 2026-02-05.

@@ -1,0 +1,2 @@
+# Delta Ledger — technical evidence
+Internal demo uses CSV import, local validation and role mockups. It does not connect to banks and has no compliance certification. Source: `docs/delta-demo.md`, 2026-02-10.

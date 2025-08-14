@@ -1,0 +1,2 @@
+# Grove Market — technical evidence
+Relaunch shipped a catalog prototype and checkout handoff. No production analytics access was granted; conversion claims are unverified. Source: `docs/grove-handoff.md`, 2026-02-07.

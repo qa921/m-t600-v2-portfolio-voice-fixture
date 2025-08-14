@@ -1,0 +1,2 @@
+# Ember Sessions — technical evidence
+Archive player supports recorded sessions via a hosted embed. There is no live streaming, audience count, or latency measurement. Source: `docs/ember-player.md`, 2026-02-18.

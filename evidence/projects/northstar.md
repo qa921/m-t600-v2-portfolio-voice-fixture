@@ -1,0 +1,2 @@
+# Northstar Clinic — technical evidence
+Service-design prototype maps referral steps and offers non-clinical appointment request copy. It stores no patient data and is not a patient portal. Source: `docs/northstar-boundaries.md`, 2026-02-16.

@@ -1,0 +1,2 @@
+# Orbit Commons — technical evidence
+Community prototype has event listings, sign-up links and a moderation guide. No group management suite or unified platform exists. Source: `docs/orbit-pilot.md`, 2026-02-20.

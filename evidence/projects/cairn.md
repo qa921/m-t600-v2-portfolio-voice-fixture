@@ -1,0 +1,2 @@
+# Cairn Field Notes — technical evidence
+Prototype includes downloadable GPX routes and a map fallback. Offline caching was tested on two routes, not all trails; sustainability claims require partner confirmation. Source: `docs/cairn-prototype.md`, 2026-01-28.

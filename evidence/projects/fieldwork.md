@@ -1,0 +1,2 @@
+# Fieldwork Archive — technical evidence
+Search indexes titles, tags and manually written abstracts for 86 records. It is keyword search, not semantic search; digitisation count is tracked in `data/catalog.csv`. Source: `docs/fieldwork-index.md`, 2026-01-19.

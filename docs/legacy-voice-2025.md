@@ -1,0 +1,2 @@
+# Retired voice notes (2025-08-14)
+Use a confident agency tone; promise end-to-end delivery, growth support and category-leading outcomes. This document is retained only to identify phrases that must not return.

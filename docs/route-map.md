@@ -1,0 +1,2 @@
+# Existing route map — do not change
+`/` intro and collaboration; `/work` project index; `/work/[slug]` project pages; `/notes` newsletter sign-up. Content paths are loaded by existing routes. No structural work is in scope.

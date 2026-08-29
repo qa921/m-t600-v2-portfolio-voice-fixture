@@ -1,0 +1,2 @@
+# Current voice notes (2026-08-29)
+Write in first person singular. Be direct, calm and specific. Name the work and its boundary; prefer "I built", "I worked on", or "This prototype" when evidence supports it. Do not position the portfolio as an agency, studio, team, full-service partner, or growth service. Avoid hype, superlatives, guarantees, scale claims and invented outcomes. Keep biography gaps open.

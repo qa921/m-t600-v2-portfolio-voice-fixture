@@ -1,0 +1,2 @@
+# Content scope
+Target files are `src/content/intro.md`, `collaboration.md`, `newsletter.md`, `metadata.json`, and all `src/content/projects/*.md`. Preserve paths, frontmatter conventions and route map. Supporting factual source is `evidence/projects/`; it may be cited in a review note but should not be copied verbatim into visitor copy.

@@ -1,2 +1,2 @@
 # Northstar Clinic
-A patient portal that transformed care coordination.
+A service-design prototype mapping referral steps, with non-clinical appointment request copy. It stores no patient data and is not a patient portal.

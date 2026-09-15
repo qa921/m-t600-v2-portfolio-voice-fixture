@@ -1,1 +1,1 @@
-Monthly dispatches with exclusive industry insights, launch news, and practical growth playbooks. Subscribe for updates.
+Occasional notes on what I'm building and what I learned while building it. No fixed schedule, no playbook — subscribe if you'd like them in your inbox.

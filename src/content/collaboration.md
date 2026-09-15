@@ -1,2 +1,2 @@
 ## Collaboration
-From strategy to launch, my team provides design, development, and ongoing growth support for every engagement.
+I work on one engagement at a time, usually from early sketches to a working prototype. I do the design and the build myself, and I'm clear about what I can take on and what stays with you.

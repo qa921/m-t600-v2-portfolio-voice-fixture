@@ -1,2 +1,2 @@
 # Interval Studio
-A scheduling tool that eliminates admin work for small teams.
+This scheduling prototype generates availability links, ICS calendar exports, and email drafts. It does not send email or automate administration.

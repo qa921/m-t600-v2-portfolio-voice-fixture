@@ -1,2 +1,2 @@
 # Delta Ledger
-Enterprise finance automation with bank-grade security and guaranteed compliance.
+An internal demo I built around CSV import, local validation, and role mockups. It does not connect to banks and carries no compliance certification.

@@ -1,2 +1,2 @@
 # Cairn Field Notes
-A sustainable travel product with offline-first navigation for every trail.
+This prototype offers downloadable GPX routes and a map fallback. I tested offline caching on two routes, not every trail, and any sustainability claims still need partner confirmation.

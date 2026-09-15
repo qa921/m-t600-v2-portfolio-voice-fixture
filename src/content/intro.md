@@ -1,2 +1,2 @@
 ## Intro
-I am a full-service digital studio helping ambitious brands scale through end-to-end innovation.
+I'm an independent designer-developer. I build small, focused websites and prototypes, and I write down what each one actually does — including where it stops.

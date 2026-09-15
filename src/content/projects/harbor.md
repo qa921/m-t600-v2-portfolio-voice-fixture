@@ -1,2 +1,2 @@
 # Harbor Atlas
-A civic data dashboard for every neighborhood in the city.
+This dashboard combines three public datasets for six pilot neighborhoods. Coverage stops there, and I refresh the data manually each month.

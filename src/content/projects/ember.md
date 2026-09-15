@@ -1,2 +1,2 @@
 # Ember Sessions
-A creator platform that streamed live to millions with zero latency.
+I built an archive player for recorded sessions using a hosted embed. There is no live streaming, no audience count, and no latency measurement.

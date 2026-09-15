@@ -1,2 +1,2 @@
 # Atlas Observatory
-Built a real-time global intelligence platform with AI forecasting and 99.99% uptime.
+I built a static Astro site with a client-side time-series explorer. The data refreshes nightly from a checked-in JSON snapshot — there is no forecasting model and no uptime guarantee.

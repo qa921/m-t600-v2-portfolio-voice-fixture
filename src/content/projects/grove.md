@@ -1,2 +1,2 @@
 # Grove Market
-A commerce relaunch that doubled conversion in one quarter.
+I shipped a catalog prototype and a checkout handoff for the relaunch. I never had access to production analytics, so conversion claims stay unverified.
